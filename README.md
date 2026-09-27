@@ -1,48 +1,62 @@
-<h1 align="center">Hola, soy Dani 👋</h1>
-
 <p align="center">
-  <b>Estudiante de Sistemas Microinformáticos y Redes (SMR)</b> orientado a redes<br>
-  con <b>ingeniería inversa y análisis de malware</b> como afición.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=1BA0D7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dani+%F0%9F%91%8B;Estudiante+de+SMR+%C2%B7+Networking;Preparando+el+CCNA+200-301" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danperfer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://www.linkedin.com/in/danperfer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dnxploit&color=1BA0D7&style=for-the-badge&label=VISITAS" />
 </p>
 
 ---
 
-### 🧭 Sobre mí
-
-Estoy formándome en **redes** (actualmente preparando la certificación **CCNA**) con el objetivo de dedicarme profesionalmente a la infraestructura de red y, más adelante, a la ciberseguridad.
-
-En paralelo, por curiosidad propia, dedico tiempo al **análisis de malware y la ingeniería inversa**. No es parte de mi formación, es un hobby que arrastro porque me fascina entender cómo funcionan las cosas por dentro. Cuando me topo con algo interesante, lo desmonto, lo documento y lo comparto.
+```console
+Dani-PC# show running-config
+!
+hostname Dani
+location Valencia, ES
+!
+interface Education0/0
+ description 2º SMR @ CIPFP Mislata
+ status up
+!
+interface Cert0/1
+ description CCNA 200-301
+ status formación completada, examen pronto
+!
+interface Roadmap0/2
+ description SMR -> ASIR -> Ciberseguridad (Blue Team)
+!
+interface Language0/3
+ description 日本語勉強中 (Genki) -> objetivo JLPT N2
+!
+end
+```
 
 ---
 
-### 🔬 Qué encontrarás por aquí
+### 🛠️ Stack
 
-- **Writeups de análisis de malware** — casos reales que analizo, documentando el proceso paso a paso.
-- Notas y herramientas de mis estudios de **redes / CCNA**.
-- Proyectos personales de aprendizaje.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows,bash,python,git,github,docker&theme=dark" />
+</p>
 
 ---
 
-### 🛠️ Con lo que trabajo / aprendo
+### 📊 Stats
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
 
-**Análisis de malware (Android):** jadx · androguard · apktool · análisis estático de APK · descifrado y desofuscación
-
-**Ingeniería inversa (Windows/Linux):** IDA Pro · x64dbg · Cheat Engine — mi entrada al mundo del RE fue el *game hacking*, trasteando con memoria, debuggers y binarios en C/C++. De ahí me vino el gusanillo de entender el software por dentro.
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=dnxploit&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-  <i>Siempre aprendiendo. Abierto a comentarios, correcciones y buenas conversaciones técnicas.</i>
+  <img src="https://raw.githubusercontent.com/dnxploit/dnxploit/output/github-snake-dark.svg" alt="snake" />
 </p>
+
+<p align="center"><i>Dani-PC# copy curiosity running-config 🐍</i></p>
