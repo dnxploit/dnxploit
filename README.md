@@ -45,11 +45,11 @@ end
 ### 📊 Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnxploit&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dnxploit&theme=tokyonight" />
   <img height="170" src="https://streak-stats.demolab.com/?user=dnxploit&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -58,5 +58,3 @@ end
 <p align="center">
   <img src="https://raw.githubusercontent.com/dnxploit/dnxploit/output/github-snake-dark.svg" alt="snake" />
 </p>
-
-<p align="center"><i>Dani-PC# copy curiosity running-config 🐍</i></p>
