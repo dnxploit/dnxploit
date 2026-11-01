@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=1BA0D7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dani+%F0%9F%91%8B;Estudiante+de+SMR+%C2%B7+Networking;Preparando+el+CCNA+200-301" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=1BA0D7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dani+%F0%9F%91%8B;Estudiante+de+SMR+%C2%B7+Networking;CCNA+200-301+aprobado+%E2%9C%85;Rumbo+a+la+seguridad+de+bajo+nivel" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,12 +21,16 @@ interface Education0/0
 !
 interface Cert0/1
  description CCNA 200-301
- status formación completada, examen pronto
+ status passed (Oct 2026)
 !
 interface Roadmap0/2
- description SMR -> ASIR -> Ciberseguridad (Blue Team)
+ description SMR -> ASIR -> Low-level security (RE, Windows internals, exploit dev)
 !
-interface Language0/3
+interface Lab0/3
+ description low-level-journey
+ status preparing, first phase summer 2027
+!
+interface Language0/4
  description 日本語勉強中 (Genki) -> objetivo JLPT N2
 !
 end
