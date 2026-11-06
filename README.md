@@ -10,7 +10,7 @@
 ---
 
 ```console
-Dani-PC# show running-config
+Dani# show running-config
 !
 hostname Dani
 location Valencia, ES
@@ -28,10 +28,10 @@ interface Roadmap0/2
 !
 interface Lab0/3
  description low-level-journey
- status preparing, first phase summer 2027
+ status up, phase 01 (C) in progress
 !
 interface Language0/4
- description 日本語勉強中 (Genki) -> objetivo JLPT N2
+ description 日本語勉強中 (Genki) -> goal JLPT N2
 !
 end
 ```
