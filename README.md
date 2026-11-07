@@ -41,7 +41,7 @@ end
 ### 🛠️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows,bash,python,git,github,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,git,github&theme=dark" />
 </p>
 
 ---
